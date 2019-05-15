@@ -1,0 +1,4 @@
+
+3) Seggregates the bugs based on the failed issues
+
+Contact: Meyer, Geoff <Geoff_Meyer@Dell.com> who worked on ML and AI for test fail patterns (www.techbeacon.com)
